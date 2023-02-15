@@ -1,0 +1,7 @@
+CB11|tp hcm|da nang|tan son nhat|noi bai|13:20:0|15:0:0|13/2/2022|13/2/2022|0|1|VJ1234|VietJetAir|8000.0
+CB60|tphcm|hai phong|tan son nhat|haiphong|6:30:0|18:0:0|20/11/2022|22/11/2022|0|0|JS1975|JetStarAirWay|3000.0
+CB26|ha noi|da nang|noi bai|da nang|10:30:0|12:0:0|19/8/2022|19/8/2023|20|10|VN1975|VietNamAirLines|4000.0
+CB19|tp hcm|ha noi|tan son nhat|noi bai|17:0:0|18:0:0|22/4/2022|22/4/2022|50|40|JS1975|JetStarAirWay|3000.0
+CB85|tphcm|mong cai|tan son nhat|mong cai|19:0:0|0:30:0|12/12/2024|13/12/2024|50|40|JS1975|JetStarAirWay|10000.0
+CB54|ha noi|tp hcm|noi bai|tan son nhat|20:0:0|22:0:0|13/1/2022|13/1/2022|50|40|VN1975|VietNamAirLines|8000.0
+CB69|hai duong|da nang|hai phong|da nang|16:0:0|17:0:0|10/10/2025|10/10/2025|40|30|VN1975|VietNamAirLines|7000.0
